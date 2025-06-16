@@ -38,7 +38,7 @@ To install and set up SignSage on your local machine, follow these steps:
 1. Clone the repository to your local system:
 
   ```bash
-   git clone https://github.com/anwesa-sinha/Innovative-project-3.git
+   git clone https://github.com/Klaustack2003/SignSage.git
    cd Innovative-project-3
   ```
 
